@@ -1,0 +1,8 @@
+.AdminCreate form {
+    padding-bottom: 15px;
+}
+  
+  .AdminCreate form textarea {
+    height: 300px;
+    font-size: 14px;
+}

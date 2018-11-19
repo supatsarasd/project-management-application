@@ -1,0 +1,22 @@
+@media all and (min-width: 480px) {
+    .Admin {
+      padding: 60px 0;
+    }
+  
+    .Admin form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+
+    .Admin h2{
+      margin: 0 auto;
+      max-width: 320px;
+      text-align: center
+    }
+
+    .Admin h6{
+      margin: 0 auto;
+      max-width: 320px;
+      color: red
+    }
+  }
